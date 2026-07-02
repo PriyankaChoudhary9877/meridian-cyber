@@ -140,7 +140,7 @@ The website focuses on modern UI/UX, responsive layouts, reusable React componen
 
 | Feature | Description |
 |---|---|
-| Hero with Signal Log Ticker | A continuous real-time security event feed under the hero, evoking live SOC monitoring without a fake dashboard |
+| Interactive Hero Section | Professional hero section with animated highlights, cybersecurity branding, and primary call-to-action. |
 | Services Grid | Six service cards with photography, code labels, and hover lift animations |
 | Alternating Why Choose Us Rows | Three editorial image-and-text rows with scroll-reveal on entry |
 | Security Process Timeline | A five-stage horizontal grid on a dark background — Assess, Prioritize, Contain, Remediate, Report |
@@ -264,7 +264,7 @@ meridian-cyber/
 │   │   │   └── Footer.tsx         # Dark footer with column links and status indicator
 │   │   ├── sections/
 │   │   │   ├── Hero.tsx           # Hero section with call-to-action and key highlights
-│   │   │   ├── TrustedBy.tsx      # Client name strip
+│   │   │   ├── TrustedBy.tsx      # Client trust and partner showcase
 │   │   │   ├── About.tsx          # Image + text editorial row
 │   │   │   ├── Services.tsx       # Six-card service grid
 │   │   │   ├── WhyChooseUs.tsx    # Alternating image/text reasons
