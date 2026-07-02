@@ -263,20 +263,20 @@ meridian-cyber/
 │   │   │   ├── Navbar.tsx         # Sticky nav with mobile menu and scroll-aware styling
 │   │   │   └── Footer.tsx         # Dark footer with column links and status indicator
 │   │   ├── sections/
-│   │   │   ├── Hero.tsx           # Hero with stat tiles and live signal ticker
+│   │   │   ├── Hero.tsx           # Hero section with call-to-action and key highlights
 │   │   │   ├── TrustedBy.tsx      # Client name strip
 │   │   │   ├── About.tsx          # Image + text editorial row
 │   │   │   ├── Services.tsx       # Six-card service grid
 │   │   │   ├── WhyChooseUs.tsx    # Alternating image/text reasons
 │   │   │   ├── Process.tsx        # Five-stage process timeline (dark)
 │   │   │   ├── Industries.tsx     # Industry sector cards
-│   │   │   ├── Statistics.tsx     # Animated counter statistics
+│   │   │   ├── Statistics.tsx     # Statistics and key metrics section
 │   │   │   ├── CaseStudies.tsx    # Three case study cards
 │   │   │   ├── Testimonials.tsx   # Animated testimonial carousel
 │   │   │   ├── BlogPreview.tsx    # Three-column blog post preview
 │   │   │   ├── FAQ.tsx            # Accordion FAQ
 │   │   │   ├── CTABanner.tsx      # Dark consultation CTA
-│   │   │   └── ContactForm.tsx    # Validated contact form with success state
+│   │   │   └── ContactForm.tsx    # Contact form with validation and submission feedback
 │   │   └── ui/
 │   │       ├── Reveal.tsx         # Reusable scroll-reveal wrapper (Framer Motion)
 │   │       └── Counter.tsx        # Animated number counter on viewport entry
@@ -302,18 +302,6 @@ meridian-cyber/
 ├── tsconfig.json
 └── package.json
 ```
-
----
-
-## Design Decisions
-
-A few choices worth calling out for anyone reviewing the code:
-
-- **Tailwind CSS v4** is used with `@theme` design tokens defined directly in `index.css`, replacing the traditional `tailwind.config.js` setup. This keeps the token source of truth in one place.
-- **Content is centralised** in `src/data/content.ts` so copy changes never require touching component files.
-The interface is built using reusable React components styled with Tailwind CSS and enhanced using Framer Motion animations.
-- **Scroll animations** use Framer Motion's `useInView` hook backed by `IntersectionObserver` — no scroll event listeners, no layout thrash.
-- **`prefers-reduced-motion`** is respected globally via a CSS rule that sets all animation durations to `0.01ms`.
 
 ---
 
