@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="public/preview.png" alt="Meridian Cyber" width="100%" />
+<img src="public/hero-section.png" alt="Meridian Cyber" width="100%" />
 
 <br />
 <br />
@@ -16,18 +16,18 @@
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Now-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
   </a>
   &nbsp;
-  <a href="https://github.com/yourusername/meridian-cyber">
+  <a href="https://github.com/PriyankaChoudhary9877/meridian-cyber">
     <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite_6-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite_8-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-EF008F?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router_v7-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
@@ -37,9 +37,9 @@
 
 ## Overview
 
-Meridian Cyber is a production-ready marketing website for an enterprise cybersecurity advisory firm — built as an original redesign concept inspired by platforms like [d360secure.com](https://d360secure.com). Rather than replicating any existing site, this project establishes a completely independent brand identity, layout system, and content voice.
+Meridian Cyber is a modern enterprise cybersecurity website built using React, TypeScript, and Vite. The project was created as an original redesign concept inspired by enterprise cybersecurity platforms such as D360 Secure while maintaining its own branding, layout, and content.
 
-The design draws from editorial and premium software aesthetics — Space Grotesk and Inter for typography, generous whitespace, and scroll-driven animations — built to feel handcrafted rather than templated. Every section, copy line, and component was written from scratch.
+The website focuses on modern UI/UX, responsive layouts, reusable React components, smooth animations, and clean frontend architecture. It demonstrates how a professional cybersecurity company's online presence can be built using current frontend technologies.
 
 ---
 
@@ -49,21 +49,21 @@ The design draws from editorial and premium software aesthetics — Space Grotes
   <tr>
     <td align="center" width="50%">
       <b>Hero Section</b><br /><br />
-      <img src="public/hero.png" width="100%" alt="Hero Section" />
+      <img src="public/hero-section.png" width="100%" alt="Hero Section" />
     </td>
     <td align="center" width="50%">
-      <b>Services Grid</b><br /><br />
-      <img src="public/services.png" width="100%" alt="Services Grid" />
+      <b>Services Section</b><br /><br />
+      <img src="public/service-section.png" width="100%" alt="Services Section" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <b>Case Studies</b><br /><br />
-      <img src="public/case-studies.png" width="100%" alt="Case Studies" />
+      <b>Why Choose Us</b><br /><br />
+      <img src="public/why-choose-us.png" width="100%" alt="Why Choose Us" />
     </td>
     <td align="center" width="50%">
-      <b>Contact Page</b><br /><br />
-      <img src="public/contact.png" width="100%" alt="Contact Page" />
+      <b>Process Section</b><br /><br />
+      <img src="public/process-section.png" width="100%" alt="Process Section" />
     </td>
   </tr>
 </table>
@@ -73,32 +73,64 @@ The design draws from editorial and premium software aesthetics — Space Grotes
 
 <br />
 
-**Security Process Timeline**
+**More Services**
 
 <p align="center">
-  <img src="public/process.png" width="70%" alt="Process Section" />
+  <img src="public/more-services.png" width="70%" alt="More Services" />
 </p>
 
-**Statistics Section — Animated Counters**
+**Why Choose Us — Extended**
 
 <p align="center">
-  <img src="public/stats.png" width="70%" alt="Statistics Section" />
+  <img src="public/why-choose-us2.png" width="70%" alt="Why Choose Us Extended" />
 </p>
 
-**Testimonials Carousel**
+**Industries Section**
 
 <p align="center">
-  <img src="public/testimonials.png" width="70%" alt="Testimonials" />
+  <img src="public/industries-section.png" width="70%" alt="Industries Section" />
 </p>
 
-**Mobile View**
+**Testimonials**
+
+<p align="center">
+  <img src="public/testimonials-secction.png" width="70%" alt="Testimonials" />
+</p>
+
+**Blog / Insights Preview**
+
+<p align="center">
+  <img src="public/blog.png" width="70%" alt="Blog Preview" />
+</p>
+
+**FAQ Section**
 
 <table align="center">
   <tr>
-    <td align="center"><b>Mobile Hero</b><br /><br /><img src="public/mobile-hero.png" width="220" alt="Mobile Hero" /></td>
-    <td align="center"><b>Mobile Menu</b><br /><br /><img src="public/mobile-menu.png" width="220" alt="Mobile Menu" /></td>
+    <td align="center"><b>FAQ</b><br /><br /><img src="public/faq.png" width="340" alt="FAQ" /></td>
+    <td align="center"><b>FAQ Section</b><br /><br /><img src="public/faq-section.png" width="340" alt="FAQ Section" /></td>
   </tr>
 </table>
+
+<br />
+
+**Call to Action**
+
+<p align="center">
+  <img src="public/call-to-action.png" width="70%" alt="Call to Action" />
+</p>
+
+**Contact Section**
+
+<p align="center">
+  <img src="public/contact-session.png" width="70%" alt="Contact Section" />
+</p>
+
+**Footer**
+
+<p align="center">
+  <img src="public/footer.png" width="70%" alt="Footer" />
+</p>
 
 </details>
 
@@ -110,10 +142,9 @@ The design draws from editorial and premium software aesthetics — Space Grotes
 |---|---|
 | Hero with Signal Log Ticker | A continuous real-time security event feed under the hero, evoking live SOC monitoring without a fake dashboard |
 | Services Grid | Six service cards with photography, code labels, and hover lift animations |
-| Alternating Why-Choose-Us Rows | Three editorial image-and-text rows with scroll-reveal on entry |
+| Alternating Why Choose Us Rows | Three editorial image-and-text rows with scroll-reveal on entry |
 | Security Process Timeline | A five-stage horizontal grid on a dark background — Assess, Prioritize, Contain, Remediate, Report |
 | Industries Section | Six sector cards covering Financial Services, Healthcare, SaaS, Critical Infrastructure, Retail, and Public Sector |
-| Animated Statistics | Counters that count up on scroll entry — enterprise count, containment time, uptime, and global coverage |
 | Case Studies | Three editorial cards with real photography, category tags, and hover interactions |
 | Testimonial Carousel | Animated quote slider with Framer Motion transitions and accessible navigation |
 | Blog Preview Strip | Three-column article preview grid with date and read-time metadata |
@@ -121,11 +152,11 @@ The design draws from editorial and premium software aesthetics — Space Grotes
 | CTA Banner | Subtle grid-textured dark banner with a strong, human-written call to action |
 | Contact Form | Fully validated form with error states, loading state, and a success confirmation view |
 | Sticky Navbar | Scroll-aware navbar with backdrop blur, mobile hamburger menu, and anchor-link smooth scroll |
+| Footer | Dark navy footer with column links, social icons, and an animated "all systems monitored" status badge |
 | 404 Page | On-brand not-found page with a dry, confident message |
 | Scroll Reveal Animations | Fade and slide-up reveals on viewport entry via a shared `Reveal` wrapper component |
 | Fully Responsive | Layout adapts cleanly across desktop, laptop, tablet, and mobile |
 | Accessible | Focus rings, ARIA labels, `prefers-reduced-motion` support, semantic HTML |
-| Performance Optimized | Lazy-loaded images, tree-shaken bundle, Vite build under 135 kB gzip |
 
 ---
 
@@ -135,9 +166,9 @@ The design draws from editorial and premium software aesthetics — Space Grotes
   <tr>
     <td valign="top" width="25%">
       <b>Frontend</b><br /><br />
-      <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" /><br />
+      <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" /><br />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Vite_6-646CFF?style=flat-square&logo=vite&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Vite_8-646CFF?style=flat-square&logo=vite&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
     </td>
     <td valign="top" width="25%">
@@ -167,7 +198,7 @@ The design draws from editorial and premium software aesthetics — Space Grotes
 - Node.js `v18+`
 - npm `v9+`
 
-No API keys or external services required. Images are served via Unsplash CDN URLs included in the source.
+No API keys or external services required. All project assets and screenshots are included within the repository.
 
 </details>
 
@@ -179,7 +210,7 @@ No API keys or external services required. Images are served via Unsplash CDN UR
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/meridian-cyber.git
+git clone https://github.com/PriyankaChoudhary9877/meridian-cyber.git
 cd meridian-cyber
 ```
 
@@ -258,7 +289,7 @@ meridian-cyber/
 │   │
 │   ├── pages/
 │   │   ├── Home.tsx               # Homepage — assembles all sections
-│   │   ├── AboutPage.tsx          # About page with leadership team
+│   │   ├── AboutPage.tsx          # About page with company overview and mission.
 │   │   ├── ContactPage.tsx        # Contact page with form and office details
 │   │   └── NotFound.tsx           # 404 page
 │   │
@@ -280,21 +311,20 @@ A few choices worth calling out for anyone reviewing the code:
 
 - **Tailwind CSS v4** is used with `@theme` design tokens defined directly in `index.css`, replacing the traditional `tailwind.config.js` setup. This keeps the token source of truth in one place.
 - **Content is centralised** in `src/data/content.ts` so copy changes never require touching component files.
-- **No third-party UI library** was used. Every card, accordion, carousel, and form element is built from scratch to match the design exactly.
-- **Images** are sourced from Unsplash via direct CDN URLs — no API key, no build-time download, royalty-free.
-- The **signal log ticker** in the hero uses a pure CSS `keyframes` animation rather than a JS interval, keeping it off the main thread.
+The interface is built using reusable React components styled with Tailwind CSS and enhanced using Framer Motion animations.
+- **Scroll animations** use Framer Motion's `useInView` hook backed by `IntersectionObserver` — no scroll event listeners, no layout thrash.
+- **`prefers-reduced-motion`** is respected globally via a CSS rule that sets all animation durations to `0.01ms`.
 
 ---
 
 ## Future Improvements
 
-- Cover letter generator with AI assistance
 - Dark mode toggle
-- Additional resume templates and themes
-- Blog with MDX support and full article pages
-- Accessibility audit and WCAG 2.1 AA certification
-- Unit and integration tests with Vitest and React Testing Library
-- i18n support for non-English markets
+- CMS-powered blog with full article pages
+- Backend contact form with email delivery
+- Multi-language support
+- Client portal with authentication
+- Analytics dashboard for site performance tracking
 
 ---
 
@@ -303,13 +333,13 @@ A few choices worth calling out for anyone reviewing the code:
 <table>
   <tr>
     <td align="center">
-      <b>Your Name</b><br />
-      Full Stack Developer<br /><br />
-      <a href="https://github.com/yourusername">
+      <b>Priyanka Choudhary</b><br />
+      Computer Science Engineering Student<br /><br />
+      <a href="https://github.com/PriyankaChoudhary9877">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       </a>
       &nbsp;
-      <a href="https://www.linkedin.com/in/yourprofile/">
+      <a href="https://www.linkedin.com/in/priyanka-choudhary-58b048312/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
       </a>
       &nbsp;
@@ -317,7 +347,7 @@ A few choices worth calling out for anyone reviewing the code:
         <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=flat-square&logo=vercel&logoColor=white" />
       </a>
       &nbsp;
-      <a href="mailto:you@email.com">
+      <a href="mailto:priyankachoudhary9877@gmail.com">
         <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
       </a>
     </td>
@@ -332,6 +362,6 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 <br />
 
-Designed and developed with attention to detail — because most cybersecurity websites deserve better.
+Designed and developed by Priyanka Choudhary.
 
 </div>
